@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Root>
+	<Joy_XAxis>[x52x] Roll</Joy_XAxis>
+	<Joy_YAxis>[x52y] Pitch</Joy_YAxis>
+
+	<Joy_1>[x52y] Primary [x52b1]</Joy_1>
+	<Joy_2>[x52y] Primary [x52b1][x52b1]</Joy_2>
+	<Joy_3>[x52y] Secondary [x52b6]</Joy_3>
+
+	<Joy_ZAxis>[x52y] Lever Axis</Joy_ZAxis>
+	<Joy_11>[x52y] Lever</Joy_11>
+	<Joy_10>[x52y] Pinky</Joy_10>
+
+	<Joy_POV1Up>[x52y] Target [x52prop1u]</Joy_POV1Up>
+	<Joy_POV1Down>[x52y] Target [x52prop1d]</Joy_POV1Down>
+	<Joy_POV1Left>[x52y] Target [x52prop1l]</Joy_POV1Left>
+	<Joy_POV1Right>[x52y] Target [x52prop1r]</Joy_POV1Right>
+
+	<Joy_POV2Up>[x52y] Nav [x52b20]</Joy_POV2Up>
+	<Joy_POV2Down>[x52y] Nav [x52b22]</Joy_POV2Down>
+	<Joy_POV2Left>[x52y] Nav [x52b23]</Joy_POV2Left>
+	<Joy_POV2Right>[x52y] Nav [x52b21]</Joy_POV2Right>
+
+	<Joy_POV3Up>[x52y] Control [x52prob20]</Joy_POV3Up>
+	<Joy_POV3Down>[x52y] Control [x52prob22]</Joy_POV3Down>
+	<Joy_POV3Left>[x52y] Control [x52prob23]</Joy_POV3Left>
+	<Joy_POV3Right>[x52y] Control [x52prob21]</Joy_POV3Right>
+
+	<Joy_4>[x52y] Hardpoints [ps4Circle]</Joy_4>
+	<Joy_5>[x52y] Control [ps4Triangle]</Joy_5>
+	<Joy_6>[x52y] Target [x52b2]</Joy_6>
+	<Joy_7>[x52y] Group [x52prob25]</Joy_7>
+	<Joy_8>[x52y] Group [x52prob27]</Joy_8>
+	<Joy_9>[x52y] Back</Joy_9>
+</Root>

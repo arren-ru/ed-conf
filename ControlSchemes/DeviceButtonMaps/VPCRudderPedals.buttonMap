@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Root>
+	<Joy_ZAxis>[hts4RudderX] Rudder Axis</Joy_ZAxis>
+
+	<Joy_UAxis>[hts4RudderX] Left Axis</Joy_UAxis>
+	<Joy_VAxis>[hts4RudderX] Right Axis</Joy_VAxis>
+
+	<Joy_1>[hts4RudderX] Left Pedal</Joy_1>
+	<Joy_2>[hts4RudderX] Left Pedal Deep</Joy_2>
+	<Joy_3>[hts4RudderX] Right Pedal</Joy_3>
+</Root>

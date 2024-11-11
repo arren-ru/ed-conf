@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Root>
+	<VPCMongoosT50>		<VID>3344</VID><PID>00C9</PID>
+		<Alternative>	<VID>3344</VID><PID>40C9</PID>	</Alternative> <!-- Right mode -->
+		<Alternative>	<VID>3344</VID><PID>80C9</PID>	</Alternative> <!-- Left mode -->
+	</VPCMongoosT50>
+	<VPCThrottle>		<VID>3344</VID><PID>0198</PID>
+		<Alternative>	<VID>3344</VID><PID>4198</PID>	</Alternative> <!-- Right mode -->
+		<Alternative>	<VID>3344</VID><PID>8198</PID>	</Alternative> <!-- Left mode -->
+	</VPCThrottle>
+	<VPCPanel>		<VID>3344</VID><PID>0259</PID>
+		<Alternative>	<VID>3344</VID><PID>4259</PID>	</Alternative> <!-- Right mode -->
+		<Alternative>	<VID>3344</VID><PID>8259</PID>	</Alternative> <!-- Left mode -->
+		<Alternative>	<VID>3344</VID><PID>025A</PID>	</Alternative> <!-- Slave out -->
+		<Alternative>	<VID>3344</VID><PID>425A</PID>	</Alternative> <!-- Slave out + Right mode -->
+		<Alternative>	<VID>3344</VID><PID>825A</PID>	</Alternative> <!-- Slave out + Left mode -->
+	</VPCPanel>
+	<VPCRudderPedals>	<VID>3344</VID><PID>01F8</PID>	</VPCRudderPedals>
+</Root>
